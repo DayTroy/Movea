@@ -88,6 +88,7 @@ input {
 
 .header__nav a{
     font-size: 2.4rem;
+    font-weight: 500;
 }
 
 .header__nav a:not(:last-child){
